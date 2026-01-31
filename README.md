@@ -24,7 +24,7 @@ I'm a passionate **Mobile UI UX Designer** with experience in **Figma, Photoshop
 
 ### [Yoga](ArogyaFit.in)
 
-![Yoga Screenshot]((https://neuiton.com/assets/images/site/portfolio/pure_yaga_p.webp))
+![Yoga Screenshot](https://neuiton.com/assets/images/site/portfolio/pure_yaga_p.webp)
 
 **[Yoga]** is a **plan generator and tracker app** built with **Figma and Mobile UI UX Design**. This project demonstrates my ability to **[use Chatgpt Api]**.
 
