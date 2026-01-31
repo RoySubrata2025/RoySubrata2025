@@ -26,16 +26,16 @@ I'm a passionate **Mobile UI UX Designer** with experience in **Figma, Photoshop
 
 ![Yoga Screenshot](https://raw.githubusercontent.com/RoySubrata2025/RoySubrata2025/refs/heads/main/images/pure_yaga_p.png)
 
-**[Yoga]** is a **plan generator and tracker app** built with **Figma and Mobile UI UX Design**. This project demonstrates my ability to **[use Chatgpt Api]**.
+**Yoga** is a **plan generator and tracker app** built with **Figma and Mobile UI UX Design**. This project demonstrates my ability to **use Chatgpt Api**.
 
 ### [VidifyAi](Vidify.in)
 
 ![VidifyAi](https://raw.githubusercontent.com/RoySubrata2025/RoySubrata2025/refs/heads/main/images/image_large.png)
 
-**[Vidify]** is a **[Video Course Platform]** built with **Firebase**. This project showcases my skills in **Firebase**.
+**Vidify** is a **Video Course Platform** built with **Firebase**. This project showcases my skills in **Firebase**.
 
 ## Get in Touch 📬
 
-- **[My Website]**(https://www.neuiton.com)
+- **My Website**(https://www.neuiton.com)
 
 
